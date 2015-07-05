@@ -10,7 +10,7 @@ Usage
 -----
 To make a circular ImageView, add this CircularImageView library to your project and add CircularImageView in your layout XML. You can also grab it via Gradle:
 
-     compile 'com.vaibhav.developer.ad.library:circleimageview'
+     compile 'com.vaibhav.developer.ad.library:circleimageview:1.1'
   
 
 You may use the following properties in your XML to customize your CircularImageView.
