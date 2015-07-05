@@ -8,9 +8,9 @@ A Simple and fast way for the custom Circle ImageView in an Android App for your
 
 Usage
 -----
+You may use the following properties in your XML to customize your CircularImageView.
 ```xml
 
-You may use the following properties in your XML to customize your CircularImageView.
 <com.vaibhav.developer.ad.library.CircleImageView
    android:layout_width="200dp"
    android:id="@+id/image_circle"
@@ -38,4 +38,17 @@ License
     limitations under the License.===============
 
 
+Developed By
+-------
+Vaibhav Yadav
+
+
+<a href="https://plus.google.com/u/0/110341020294837635927/">
+  <img alt="Follow me on Google+"
+       src="http://data.pkmmte.com/temp/social_google_plus_logo.png" />
+</a>
+<a href="https://in.linkedin.com/in/devvaibhavyadav">
+  <img alt="Follow me on LinkedIn"
+       src="http://data.pkmmte.com/temp/social_linkedin_logo.png" />
+</a>
 
